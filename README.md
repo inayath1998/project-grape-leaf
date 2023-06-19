@@ -3,7 +3,7 @@ This project includes the files related to Project increment as per the instruct
 
 Date: 18-Jun-2023
 
-Dataset and project related files have been saved into drive .sharing you the drive link fpr reference:
+Dataset and project related files have been saved into drive .sharing you the drive link for reference:
 https://drive.google.com/drive/folders/1WI_nfqBssS3azJlOUweldVzQWvCJhjOy?usp=sharing
 
 Data files Used For this Project and Video Presentation Link:
